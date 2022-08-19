@@ -1,0 +1,1 @@
+# conventional-commit-and-auto-version
